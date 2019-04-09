@@ -1,5 +1,7 @@
 # geoserver-docker
 
+http://geoserver.org/
+
 Creates a basic instance of GeoServer 2.15 with OpenJDK 8
 
 To Run and experiment with the demo content
